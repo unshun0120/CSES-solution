@@ -3,9 +3,9 @@ using namespace std;
 
 int main(){
 	long long i, n, move=0;
-	long long arr[n];
 
 	cin >> n;
+	long long arr[n];
 	for(i = 0; i < n; i++)
 		cin >> arr[i];
 	
